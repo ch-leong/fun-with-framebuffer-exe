@@ -6,5 +6,5 @@ Run project.exe
 - Mouse to pan camera  
 - left/right arrow to pick post processing.  
   
-Requirement: VS140 sdk  
+Requirement: VC140  
   
